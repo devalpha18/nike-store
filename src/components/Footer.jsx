@@ -31,7 +31,8 @@ const Footer = ({ footerAPI: { titles, links } }) => {
           <div className="mt-5 text-center">
             <p className="text-sm md:text-center">
               <span className="font-semibold">
-                👟 made by pollymorfism {Year} 👟
+                👟 made by{" "}
+                <a href="https://github.com/devalpha18">devalpha18</a> {Year} 👟
               </span>
             </p>
           </div>
